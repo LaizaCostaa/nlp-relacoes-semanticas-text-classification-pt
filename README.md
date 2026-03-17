@@ -76,16 +76,6 @@ O projeto investiga especialmente:
 
 - possível uso de LLMs
 
-💡 Diferenciais
-
-baseado em pesquisa em Linguística
-
-foco em ambiguidade (tema pouco explorado em NLP aplicado)
-
-interseção entre semântica e IA
-
-abordagem interpretativa, não apenas estatística
-
 
 ---
 
