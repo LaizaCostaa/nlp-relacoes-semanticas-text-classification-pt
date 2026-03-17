@@ -1,12 +1,12 @@
-# NLP para Classificação de Relações Semânticas (PT-BR)
+# NLP para Classificação de Relações Semânticas com Foco em Ambiguidade (PT-BR)
 
-Projeto de NLP focado na classificação automática de relações semânticas em textos em português.
+Projeto de Processamento de Linguagem Natural voltado à classificação automática de relações semânticas em textos em português, com foco especial em fenômenos de ambiguidade.
 
 ##  Origem 
 
-Este projeto foi desenvolvido a partir da minha dissertação de mestrado em Linguístic*, com o objetivo de investigar como relações de sentido em enunciados podem ser modeladas e reconhecidas automaticamente por sistemas de Processamento de Linguagem Natural.
+Este projeto foi desenvolvido a partir da minha dissertação de mestrado em Linguística, com foco na investigação de **ambiguidade semântica em enunciados** e na forma como diferentes interpretações de sentido podem ser modeladas computacionalmente.
 
-A proposta une fundamentos de **semântica linguística** com técnicas de **Machine Learning e NLP**, explorando a interseção entre linguagem, significado e inteligência artificial.
+A proposta conecta fundamentos de **semântica linguística**, **interpretação de sentido** e **ciência de dados**, explorando como sistemas de IA lidam com múltiplas leituras possíveis de um mesmo enunciado.
 
 ##  Objetivo
 
@@ -18,18 +18,27 @@ Explorar como modelos de linguagem capturam relações de sentido em textos, com
 
 A classificação automática de relações semânticas pode contribuir para pesquisas em linguística computacional, interpretação de sentido, análise textual e desenvolvimento de sistemas inteligentes mais sensíveis à linguagem.
 
-Além do valor acadêmico, o projeto também dialoga com aplicações práticas em:
+## 🎯 Objetivo
 
-- classificação textual
-- análise de discurso
-- mineração de texto
-- sistemas educacionais
-- ferramentas de apoio à interpretação semântica
+Desenvolver um modelo de NLP capaz de classificar enunciados em categorias semânticas, com ênfase na identificação de **casos de ambiguidade e relações de sentido não triviais**.
 
-## Problema
+## 🧠 Problema de Pesquisa
 
-Como modelar computacionalmente relações semânticas presentes em enunciados em português a partir de um dataset anotado por especialista
+Como representar e classificar computacionalmente enunciados ambíguos, considerando que:
 
+- um mesmo texto pode ter múltiplas interpretações
+- o sentido depende de contexto, inferência e conhecimento de mundo
+- modelos tradicionais tendem a capturar apenas padrões superficiais
+
+## 🔍 Foco do Projeto
+
+O projeto investiga especialmente:
+
+- ambiguidade semântica
+- múltiplas interpretações de sentido
+- relações entre linguagem, contexto e significado
+- limites de modelos de NLP na interpretação de linguagem natural
+- 
 ## Passos
 
 - [ ] Carregar dataset
