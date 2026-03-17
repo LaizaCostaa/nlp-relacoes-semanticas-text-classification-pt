@@ -38,7 +38,7 @@ Como modelar computacionalmente relações semânticas presentes em enunciados e
 - [ ] Avaliar métricas
 - [ ] Evoluir para embeddings e transformers
 
-## Tecnologias utilizadas
+## Tecnologias
 
 - Python
 - Pandas
