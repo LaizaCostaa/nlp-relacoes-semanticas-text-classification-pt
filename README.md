@@ -2,22 +2,35 @@
 
 Projeto de NLP focado na classificação automática de relações semânticas em textos em português.
 
+##  Origem 
+
+Este projeto foi desenvolvido a partir da minha dissertação de mestrado em Linguístic*, com o objetivo de investigar como relações de sentido em enunciados podem ser modeladas e reconhecidas automaticamente por sistemas de Processamento de Linguagem Natural.
+
+A proposta une fundamentos de **semântica linguística** com técnicas de **Machine Learning e NLP**, explorando a interseção entre linguagem, significado e inteligência artificial.
+
 ##  Objetivo
 
-Classificar enunciados textuais em categorias semânticas utilizando técnicas de Machine Learning e NLP.
+Classificar enunciados textuais em categorias semânticas utilizando técnicas de Machine Learning.
 
 ##  Motivação
 
 Explorar como modelos de linguagem capturam relações de sentido em textos, com foco em análise semântica e linguística.
 
-##  Estrutura (em construção)
+A classificação automática de relações semânticas pode contribuir para pesquisas em linguística computacional, interpretação de sentido, análise textual e desenvolvimento de sistemas inteligentes mais sensíveis à linguagem.
 
-- data/
-- src/
-- models/
-- notebooks/
+Além do valor acadêmico, o projeto também dialoga com aplicações práticas em:
 
-## Próximos passos
+- classificação textual
+- análise de discurso
+- mineração de texto
+- sistemas educacionais
+- ferramentas de apoio à interpretação semântica
+
+## Problema
+
+Como modelar computacionalmente relações semânticas presentes em enunciados em português a partir de um dataset anotado por especialista
+
+## Passos
 
 - [ ] Carregar dataset
 - [ ] Criar baseline com TF-IDF
@@ -25,7 +38,7 @@ Explorar como modelos de linguagem capturam relações de sentido em textos, com
 - [ ] Avaliar métricas
 - [ ] Evoluir para embeddings e transformers
 
-##  Tecnologias
+## Tecnologias
 
 - Python
 - Pandas
@@ -33,4 +46,5 @@ Explorar como modelos de linguagem capturam relações de sentido em textos, com
 - NLP
 
 ---
- Projeto em desenvolvimento...
+
+Projeto em desenvolvimento...
