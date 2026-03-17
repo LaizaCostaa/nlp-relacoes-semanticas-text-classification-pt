@@ -38,14 +38,6 @@ O projeto investiga especialmente:
 - múltiplas interpretações de sentido
 - relações entre linguagem, contexto e significado
 - limites de modelos de NLP na interpretação de linguagem natural
-- 
-## Passos
-
-- [ ] Carregar dataset
-- [ ] Criar baseline com TF-IDF
-- [ ] Treinar modelo de classificação
-- [ ] Avaliar métricas
-- [ ] Evoluir para embeddings e transformers
 
 ## Tecnologies
 
@@ -53,6 +45,51 @@ O projeto investiga especialmente:
 - Pandas
 - Scikit-learn
 - NLP
+
+## Resultados Esperados
+
+- avaliar a capacidade de modelos em lidar com ambiguidade
+
+- identificar padrões que levam a erros de interpretação
+
+- analisar limitações de abordagens tradicionais
+
+- propor caminhos para modelagem semântica mais robusta
+
+## Aplicações
+
+- análise semântica de textos
+
+- sistemas educacionais
+
+- interpretação de linguagem natural
+
+- apoio à pesquisa em linguística computacional
+
+- desenvolvimento de IA mais interpretável
+
+## Próximas Etapas
+
+- baseline com TF-IDF + Logistic Regression
+
+- análise de erros focada em ambiguidade
+
+- teste com modelos mais robustos
+
+- comparação entre abordagens
+
+- possível uso de LLMs
+
+💡 Diferenciais
+
+baseado em pesquisa em Linguística
+
+foco em ambiguidade (tema pouco explorado em NLP aplicado)
+
+interseção entre semântica e IA
+
+abordagem interpretativa, não apenas estatística
+
 
 ---
 
