@@ -8,21 +8,17 @@ Este projeto foi desenvolvido a partir da minha dissertação de mestrado em Lin
 
 A proposta conecta fundamentos de **semântica linguística**, **interpretação de sentido** e **ciência de dados**, explorando como sistemas de IA lidam com múltiplas leituras possíveis de um mesmo enunciado.
 
-##  Objetivo
-
-Classificar enunciados textuais em categorias semânticas utilizando técnicas de Machine Learning.
-
 ##  Motivação
 
 Explorar como modelos de linguagem capturam relações de sentido em textos, com foco em análise semântica e linguística.
 
 A classificação automática de relações semânticas pode contribuir para pesquisas em linguística computacional, interpretação de sentido, análise textual e desenvolvimento de sistemas inteligentes mais sensíveis à linguagem.
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver um modelo de NLP capaz de classificar enunciados em categorias semânticas, com ênfase na identificação de **casos de ambiguidade e relações de sentido não triviais**.
 
-## 🧠 Problema de Pesquisa
+## Problema de Pesquisa
 
 Como representar e classificar computacionalmente enunciados ambíguos, considerando que:
 
@@ -30,7 +26,7 @@ Como representar e classificar computacionalmente enunciados ambíguos, consider
 - o sentido depende de contexto, inferência e conhecimento de mundo
 - modelos tradicionais tendem a capturar apenas padrões superficiais
 
-## 🔍 Foco do Projeto
+## Foco do Projeto
 
 O projeto investiga especialmente:
 
