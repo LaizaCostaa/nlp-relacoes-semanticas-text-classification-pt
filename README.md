@@ -1,4 +1,4 @@
-#  Detecção de Ambiguidade em Texto com NLP
+#  Ambiguity Detection in NLP: Limits of Traditional vs Semantic Models
 
 Este projeto investiga como diferentes abordagens de NLP lidam com a **detecção de ambiguidade semântica** em textos em português.
 
