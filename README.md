@@ -46,6 +46,8 @@ Isso levou à reformulação do problema para um cenário binário: **Ambiguidad
 | TF-IDF | ~0.77 | Alto viés para ambiguidade |
 | SLM | ~0.67 | Melhor equilíbrio entre classes |
 
+Embora o modelo baseado em TF-IDF apresente maior acurácia, ele falha em distinguir corretamente os casos não ambíguos.
+Já o modelo com embeddings semânticos reduz esse viés, evidenciando que métricas globais nem sempre refletem a qualidade real do modelo.
 ---
 
 ## Principais insights
