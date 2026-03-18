@@ -41,6 +41,11 @@ Isso levou à reformulação do problema para um cenário binário: **Ambiguidad
 
 ## Resultados principais
 
+<img width="801" height="407" alt="image" src="https://github.com/user-attachments/assets/04545a5a-f2b2-414e-bced-83ab2fb444d0" />
+
+<img width="557" height="444" alt="image" src="https://github.com/user-attachments/assets/112370e3-e7d5-48c1-8f10-fd09b244b36f" />
+
+
 | Modelo | Accuracy | Observação |
 |------|--------|-----------|
 | TF-IDF | ~0.77 | Alto viés para ambiguidade |
